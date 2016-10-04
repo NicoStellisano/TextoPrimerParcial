@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\Apellido.Nombre.Division\Biblioteca_De_Clases\bin\Debug\Biblioteca_De_Clases.exe.config
+C:\Users\alumno\Desktop\Apellido.Nombre.Division\Biblioteca_De_Clases\obj\Debug\Biblioteca_De_Clases.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Apellido.Nombre.Division\Biblioteca_De_Clases\bin\Debug\Biblioteca_De_Clases.exe
+C:\Users\alumno\Desktop\Apellido.Nombre.Division\Biblioteca_De_Clases\bin\Debug\Biblioteca_De_Clases.pdb
+C:\Users\alumno\Desktop\Apellido.Nombre.Division\Biblioteca_De_Clases\obj\Debug\Biblioteca_De_Clases.exe
+C:\Users\alumno\Desktop\Apellido.Nombre.Division\Biblioteca_De_Clases\obj\Debug\Biblioteca_De_Clases.pdb
