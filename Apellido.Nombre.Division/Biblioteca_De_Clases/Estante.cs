@@ -48,31 +48,31 @@ namespace Biblioteca_De_Clases
 
         public float GetValorEstante(ETipoProducto tipo)
         {
-            
-            foreach (var item in this._productos)
+            float precioEstante=0;
+            foreach (Producto item in this._productos)
             {
-                if (tipo == ETipoProducto.Jugo)
+                if (tipo == ETipoProducto.Jugo && item is Jugo)
                 {
-                    _precioEstante += item.Precio;
+                    precioEstante += item.Precio;
                 }
-                else if (tipo == ETipoProducto.Galletita)
+                else if (tipo == ETipoProducto.Galletita && item is Galletita)
                 {
-                    _precioEstante += item.Precio;
+                    precioEstante += item.Precio;
 
                 }
-                else if (tipo == ETipoProducto.Gaseosa)
+                else if (tipo == ETipoProducto.Gaseosa && item is Gaseosa)
                 {
-                    _precioEstante += item.Precio;
+                    precioEstante += item.Precio;
 
                 }
                 else 
                 {
-                    _precioEstante += item.Precio;
+                    //precioEstante += item.Precio;
 
                 }
 
             }
-            return _precioEstante;
+            return precioEstante;
         }
 
         public static string MostrarEstante(Estante est)

@@ -4,3 +4,9 @@ C:\Users\alumno\Desktop\Apellido.Nombre.Division\Biblioteca_De_Clases\bin\Debug\
 C:\Users\alumno\Desktop\Apellido.Nombre.Division\Biblioteca_De_Clases\bin\Debug\Biblioteca_De_Clases.pdb
 C:\Users\alumno\Desktop\Apellido.Nombre.Division\Biblioteca_De_Clases\obj\Debug\Biblioteca_De_Clases.exe
 C:\Users\alumno\Desktop\Apellido.Nombre.Division\Biblioteca_De_Clases\obj\Debug\Biblioteca_De_Clases.pdb
+D:\TextoPrimerParcialPrueba\Apellido.Nombre.Division\Biblioteca_De_Clases\bin\Debug\Biblioteca_De_Clases.exe.config
+D:\TextoPrimerParcialPrueba\Apellido.Nombre.Division\Biblioteca_De_Clases\obj\Debug\Biblioteca_De_Clases.exe
+D:\TextoPrimerParcialPrueba\Apellido.Nombre.Division\Biblioteca_De_Clases\obj\Debug\Biblioteca_De_Clases.pdb
+D:\TextoPrimerParcialPrueba\Apellido.Nombre.Division\Biblioteca_De_Clases\bin\Debug\Biblioteca_De_Clases.exe
+D:\TextoPrimerParcialPrueba\Apellido.Nombre.Division\Biblioteca_De_Clases\bin\Debug\Biblioteca_De_Clases.pdb
+D:\TextoPrimerParcialPrueba\Apellido.Nombre.Division\Biblioteca_De_Clases\obj\Debug\Biblioteca_De_Clases.csprojResolveAssemblyReference.cache
